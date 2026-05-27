@@ -1,6 +1,6 @@
 {
     "fotos": [
-        "assets/img/image-1.png",
+        "./assets/img/image-1.png",
         "assets/img/image-2.png",
         "assets/img/image-3.png",
         "assets/img/image-4.png",
